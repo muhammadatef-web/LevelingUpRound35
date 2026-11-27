@@ -28,3 +28,9 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+
+### Maven ###
+LevelingUpRound35/target/
+
+### IntelliJ IDEA (local files) ###
+.idea/workspace.xml
